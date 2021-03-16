@@ -1,14 +1,3 @@
-# Python-and-Spark-for-Big-Data
-Course Notebooks for Python and Spark for Big Data
-
-Course Outline:
-
-* Course Introduction
-    * Promo/Intro Video
-    * Course Curriculum Overview
-    * Introduction to Spark, RDDs, and Spark 2.0
-    
-* Course Set-up
     * Set-up Overview
     * EC2 Installation Guide
     * Local Installation Guide with VirtualBox
